@@ -1,5 +1,6 @@
 
-<h2><b>👋 Hi I'm chunsam Backend Developer</b></h2>
+<h2><b>👋  Hi I'm chunsam Backend Developer</b><br>
+  🏃 Ordeal but no failures</h2>
 
 
 
