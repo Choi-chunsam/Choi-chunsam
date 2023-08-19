@@ -5,11 +5,13 @@
 
 
 <h3>
-  <b>❤️최대웅 | Daewoong Choi</b><br>
+  <b>🎅최대웅 | Daewoong Choi</b><br>
 </h3>
 <div>
-I majored in Mathematics at Inha University.<br>
-Interested in backend development solving problems from different perspectives.
+I majored in Mathematics<br>
+So I logically think and talk with my companion<br>
+Interested in backend development solving problems from different perspectives.<br>
+I'm looking foward to meeting you :)
   </div>
 <br>
 <div>
