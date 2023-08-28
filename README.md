@@ -12,7 +12,10 @@ I majored in Mathematics<br>
 So I logically think and talk with my companion<br>
 Interested in backend development solving problems from different perspectives.<br>
 I'm looking foward to meeting you :)
-  </div>
+</div>
+<div>
+ 🤖 <a href="https://www.notion.so/chunsam2/Choi-Daewoong-7b1c5df97f054079a6a206b706ad55e3">My Notion</a>    
+</div>
 <br>
 <div>
   <b>💻 Interest</b>
